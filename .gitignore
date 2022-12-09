@@ -1,0 +1,5 @@
+_site/
+.*-cache/
+*.lock
+.DS_Store
+portfolio-jekyll-theme.gemspec

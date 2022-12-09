@@ -1,0 +1,67 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Bio',    url: 'about'}
+- {name: 'Images', url: 'images'}
+- {name: 'Biblio',  url: 'biblio'}
+- {name: 'Échanges',     url: 'echanges'}
+- {name: 'Blog',     url: 'blog'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Réception',   url: 'lecture'}
+- {name: 'Rites funéraires',   url: 'rites-funeraires'}
+- {name: 'Calypso',   url: 'calypso'}
+- {name: 'Intertextualité',   url: 'intertextualite'}
+- {name: 'Lieux',   url: 'lieux'}
+- {name: 'Manuscrit',   url: 'manuscrit'}
+- {name: 'Répétitions',   url: 'repetitions'}
+- {name: 'Fontaines',   url: 'fontaines'}
+- {name: 'Hasard',   url: 'hasard'}
+- {name: 'Jeux',   url: 'jeux'}
+- {name: 'Décision',   url: 'decision'}
+
+echanges:
+- {name: 'Dialogues',   url: 'dialogues'}
+- {name: 'Engagements',   url: 'engagements'}
+- {name: 'Transmission des savoirs',   url: 'transmission-des-savoirs'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'envelope',  link: 'mailto:david.bouvier@unil.ch'}
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''

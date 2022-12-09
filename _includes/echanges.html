@@ -1,0 +1,15 @@
+<section>
+  <div class="project-container">
+    <p><b>Dialogues, engagements, transmission des savoirs.</b></p>
+
+    {% for echange in site.data.settings.echanges %}
+      <a href="{{ site.github.url }}/echanges/{{ echange.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/echanges/{{ echange.url }}" style="background-image: url({{ site.github.url }}/assets/img/echanges/{{ echange.url }}/thumbnail.jpg)">
+          <div class="project-overlay">
+            <strong>{{ echange.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
