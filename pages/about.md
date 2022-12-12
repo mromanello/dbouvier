@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-### David Bouvier, professeur honoraire de langue et littérature grecques à la Faculté des lettres
+### David Bouvier, professeur honoraire de langue et littérature grecques à l'Université de Lausanne
 
 Né en 1957 à Neuchâtel, David Bouvier a fait toute sa scolarité dans cette même ville. Dès 1976, il suit un cursus en lettres classiques à l’Université Paris IV-La Sorbonne et obtient sa maîtrise en 1980, avec un mémoire sur le vocabulaire et les figures de la cécité dans la littérature grecque. Ce mémoire, qui donnera lieu à un premier article (coécrit avec le latiniste Philippe Moreau), manifeste déjà la préoccupation centrale de tous ses travaux à venir, à savoir la recherche des points d’articulation entre langue et pensée, auxquelles s’ajoutera plus tard, notamment sous l’influence de Claude Calame, la prise en compte des contextes d’énonciation dans leur diversité historique. 
 
