@@ -3,7 +3,7 @@ layout: post
 title: ''
 ---
 
-Peintre de Brygos, <i>Rançon d’Hector</i>. Skyphos attique à figures rouges, 480 av. J-C., Kunsthistoriches Museum., Vienne
+Peintre de Brygos, <i>Rançon d’Hector</i>. Skyphos attique à figures rouges, 480 av. J-C., Kunsthistoriches Museum, Vienne
 
 {% include image.html image="projects/rites-funeraires/hector_skyphos.jpeg" %}
 
