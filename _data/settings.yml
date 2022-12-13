@@ -25,9 +25,9 @@ projects:
 - {name: 'Décision',   url: 'decision'}
 
 echanges:
-- {name: 'Dialogues',   url: 'dialogues'}
-- {name: 'Engagements',   url: 'engagements'}
-- {name: 'Transmission des savoirs',   url: 'transmission-des-savoirs'}
+- {name: 'Dialoguer',   url: 'dialoguer'}
+- {name: "S'impliquer",   url: 's-impliquer'}
+- {name: 'Transmettre',   url: 'transmettre'}
 
 
 #-------------------------------
